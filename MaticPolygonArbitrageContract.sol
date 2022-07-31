@@ -13,11 +13,9 @@ pragma solidity ^0.5.0;
 import "https://github.com/aave/aave-protocol/blob/master/contracts/interfaces/IChainlinkAggregator.sol";
 import "https://github.com/aave/aave-protocol/blob/master/contracts/flashloan/interfaces/IFlashLoanReceiver.sol";
 
-// Router
-import "https://github.com/MF-Finance/router/blob/main/IAaveRouterCalleMain.sol";
-
 //Uniswap Smart contracts
 import "https://github.com/Uniswap/v3-core/blob/main/contracts/interfaces/IUniswapV3Factory.sol";
+import "https://github.com/MF-Finance/router/blob/main/IAaveRouterCalleMain.sol";
 
 // Multiplier-Finance Smart Contracts
 import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
