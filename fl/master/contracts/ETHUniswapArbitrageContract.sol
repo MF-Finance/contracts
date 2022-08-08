@@ -6527,7 +6527,7 @@ s for the security token (STO) & tokenized stock industry (TSO).
 
 // BTC 2x Flexible Leverage Index (BTC2x-FLI)
 // The WBTC Flexible Leverage Index lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index.
-return 0x9af0d51D89d67e856F1319ff6CF0d55C9263920B;
+return 0xEc34A88643E99b6800fCcAeFa5d5fF948Ad566D7;
 // 0x0b498ff89709d3838a063f1dfa463091f9801c2b
 
 
